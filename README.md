@@ -1,7 +1,6 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
 
 ---
-
 ## Aim
 
 To write a Python program using OpenCV to perform histogram equalization on both grayscale and color images to enhance image contrast and brightness.
